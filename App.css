@@ -1,0 +1,33 @@
+/*  counter
+.Wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.Wrapper button{
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 22px;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+
+}
+button.minus{
+  background-color: red;
+}
+button.plus{
+  background-color: green;
+} */
+
+
+
+/* TODO APP */
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
